@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "992560405556",
+    "project_id": "textreco-a2504",
+    "storage_bucket": "textreco-a2504.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992560405556:android:14f62767f3ca16dfa77e61",
+        "android_client_info": {
+          "package_name": "com.example.textreco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992560405556-tm9qbbo0h2c9e52iivsbuktaoma1rne4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCemuml10cbvRLAAFH3gagbydFUgSBKGe4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992560405556-tm9qbbo0h2c9e52iivsbuktaoma1rne4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
